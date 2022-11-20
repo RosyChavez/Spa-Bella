@@ -1,1 +1,1 @@
-# Spa-Bella
+# SpaBella
